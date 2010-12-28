@@ -1,0 +1,13 @@
+Depends is a project I started to automate the handling of Java
+library dependencies (circa 2002 when Ant was youthful and Maven was
+still in its infancy).
+
+I actually ran the design of Depends by the Ant and Maven guys on one
+of the Apache mailing lists, but they rambled on about a bunch of NIH
+stuff and didn't want to talk.
+
+Unfortunately, I got distracted with other things and it took many
+years before sanity once again prevailed (somewhat anyway) with the
+creation of the Ivy project.
+
+Thus what you see here is, at best, a historical curiosity.
